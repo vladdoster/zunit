@@ -1,4 +1,4 @@
 install:
-	zsh build.zsh
+	@zsh build.zsh
 
 .PHONY: install
